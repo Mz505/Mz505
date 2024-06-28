@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mashal Zerak
 - 👀 I’m interested in Web Application Development 
-- 🌱 I’m currently learning ASP.net and it's all important aspect of Web Application
+- 🌱 I’m currently learning ASP.net and all important aspects of Web Application
 - 💞️ I’m looking to collaborate on Web Application 
 - 📫 How to reach me you can use my Email address and any other socil link mentioned in the profile
 - 😄 Pronouns: MZ
